@@ -1,4 +1,4 @@
-Down 8.8.8.8 Ping Successful
+UP 8.8.8.8 Ping Successful
 Down 192.168.56.2 Ping Unsuccessful
 Down 192.168.56.3 Ping Unsuccessful
 Down 192.168.100.2 Ping Unsuccessful
