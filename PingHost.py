@@ -24,6 +24,7 @@ def create_ip_list():
 
 def ping_device(ip_list):
     """Ping ip_list and return results"""
+   
     results_file = open("results.txt", "w")
 
     for ip in ip_list:
