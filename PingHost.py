@@ -14,6 +14,7 @@ count = '-n' if OS_TYPE == 'nt' else '-c'
 
 def create_ip_list():
     """Creates an ip address list"""
+    
     ip_list = []
 
     with open("ip_file.txt", "r") as file:
