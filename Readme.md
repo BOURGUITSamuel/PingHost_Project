@@ -6,7 +6,7 @@ Vous pouvez aussi effectuer un test ping avec un hôte  ou nom de domaine.
 Test et diagnostic du réseau  à l'aide de la commande  Ping.
 
 # Prerequisites
-Le programme peut être exécuté  sur un système d'exploitation Windows(en utilisant un IDE) ou Linux.
+Le programme peut être exécuté  sur un système d'exploitation Windows(en utilisant un IDE ou la version windows de python) ou Linux.
 
 Le programme a été conçu avec le langage Python.
 
